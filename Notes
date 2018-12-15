@@ -1,0 +1,44 @@
+HTML = HYPER TEXT MARKUP LANGUAGE
+
+h1 - h6 - HEADING SIZE
+
+HTML DOCUMENTATION
+https://devdocs.io/html/element
+w3schools
+MDN
+
+Emmet cheat sheet - shortcuts
+docs.emmet.io/cheat-sheet/
+
+
+<head> - Tag
+Holds information about the webpage and tells the browser how it should handle the webpage.
+
+
+Search Engine Optimization
+
+<img> - tag
+<img src="ifypic.jpg" alt="a picture of ify">
+Alt Attribute with specific description of an image e.t.c
+<meta> - Tag
+Meta data about your website for example, the description to help search engines find your website.
+<meta name="description" content="Uchenna's First Website">
+
+
+<table> </table>
+<tr> </tr> - table row
+<td> </td> - table data (table cells)
+<thead> </thead> - table header
+<th></th> - table headings
+<tbody> </tbody> - table body
+<tfoot> </tfoot> - table footer
+
+- Use table tag to structure things like resume e.t.c
+
+
+HTML FORMS
+
+<form> </form> - defines what goes into our FORM
+<label> name </label> - Label inside of FORM
+<input type="text"> - self closing Tag (can be password, submit, checkbox e.t.c look up docs for this one)
+<textarea></textarea> - user answer
